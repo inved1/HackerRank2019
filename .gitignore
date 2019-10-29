@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+src/HackerRank2019/.vs/
+src/HackerRank2019/Debug/
+src/HackerRank2019/HackerRank2019/Debug/
