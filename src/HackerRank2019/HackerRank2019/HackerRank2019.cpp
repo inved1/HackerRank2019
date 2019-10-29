@@ -1,11 +1,21 @@
 // HackerRank2019.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+#include "HourGlass.h" 
+
 #include <iostream>
 
 int main()
 {
     std::cout << "Hello World!\n";
+
+	HourGlass H;
+
+	H.ReadDataAndRun();
+	
+	
+	
+	
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
