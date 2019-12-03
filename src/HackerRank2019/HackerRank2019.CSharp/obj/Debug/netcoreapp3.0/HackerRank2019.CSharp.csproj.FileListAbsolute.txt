@@ -1,0 +1,11 @@
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\obj\Debug\netcoreapp3.0\HackerRank2019.CSharp.csprojAssemblyReference.cache
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\obj\Debug\netcoreapp3.0\HackerRank2019.CSharp.AssemblyInfoInputs.cache
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\obj\Debug\netcoreapp3.0\HackerRank2019.CSharp.AssemblyInfo.cs
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.exe
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.deps.json
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.runtimeconfig.json
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.runtimeconfig.dev.json
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.dll
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\bin\Debug\netcoreapp3.0\HackerRank2019.CSharp.pdb
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\obj\Debug\netcoreapp3.0\HackerRank2019.CSharp.dll
+D:\DevZoneRoot\DevZoneGithub\inved1\HackerRank2019\src\HackerRank2019\HackerRank2019.CSharp\obj\Debug\netcoreapp3.0\HackerRank2019.CSharp.pdb

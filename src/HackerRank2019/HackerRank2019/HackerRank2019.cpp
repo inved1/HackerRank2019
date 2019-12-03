@@ -2,6 +2,7 @@
 //
 
 #include "HourGlass.h" 
+#include "TwoStrings.h"
 
 #include <iostream>
 
@@ -9,9 +10,13 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-	HourGlass H;
+	//HourGlass H;
 
-	H.ReadDataAndRun();
+	//H.ReadDataAndRun();
+
+
+	TwoStrings T;
+	T.run();
 	
 	
 	

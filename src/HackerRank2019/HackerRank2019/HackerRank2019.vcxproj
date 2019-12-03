@@ -153,9 +153,13 @@
   <ItemGroup>
     <ClCompile Include="HackerRank2019.cpp" />
     <ClCompile Include="HourGlass.cpp" />
+    <ClCompile Include="NewYearChaos.cpp" />
+    <ClCompile Include="TwoStrings.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HourGlass.h" />
+    <ClInclude Include="NewYearChaos.h" />
+    <ClInclude Include="TwoStrings.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

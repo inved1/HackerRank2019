@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DevZoneRoot\\DevZoneGithub\\inved1\\HackerRank2019\\src\\HackerRank2019\\HackerRank2019.CSharp\\HackerRank2019.CSharp.csproj": {}
+  },
+  "projects": {
+    "D:\\DevZoneRoot\\DevZoneGithub\\inved1\\HackerRank2019\\src\\HackerRank2019\\HackerRank2019.CSharp\\HackerRank2019.CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DevZoneRoot\\DevZoneGithub\\inved1\\HackerRank2019\\src\\HackerRank2019\\HackerRank2019.CSharp\\HackerRank2019.CSharp.csproj",
+        "projectName": "HackerRank2019.CSharp",
+        "projectPath": "D:\\DevZoneRoot\\DevZoneGithub\\inved1\\HackerRank2019\\src\\HackerRank2019\\HackerRank2019.CSharp\\HackerRank2019.CSharp.csproj",
+        "packagesPath": "C:\\Users\\dan10180\\.nuget\\packages\\",
+        "outputPath": "D:\\DevZoneRoot\\DevZoneGithub\\inved1\\HackerRank2019\\src\\HackerRank2019\\HackerRank2019.CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dan10180\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
