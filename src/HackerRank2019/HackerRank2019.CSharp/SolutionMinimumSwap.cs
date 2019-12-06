@@ -38,7 +38,7 @@ class SolutionMinimumSwap
 
         return swapsum;
     }
-
+    /*
     static void Main(string[] args)
     {
 
@@ -50,4 +50,5 @@ class SolutionMinimumSwap
         Console.WriteLine(res);
 
     }
+*/
 }
