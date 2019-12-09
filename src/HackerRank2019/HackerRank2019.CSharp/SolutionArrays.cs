@@ -4,7 +4,7 @@ using System.Text;
 
 class SolutionArrays
 {
-
+    /*
     static void Main(String[] args)
     {
         int n = Convert.ToInt32(Console.ReadLine());
@@ -13,4 +13,5 @@ class SolutionArrays
         Array.ForEach<int>(arr, x => Console.Write(String.Format("{0} ", x)));
 
     }
+*/
 }
