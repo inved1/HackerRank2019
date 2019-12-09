@@ -1,5 +1,5 @@
 #include "NewYearChaos.h"
-
+/*
 NewYearChaos::NewYearChaos()
 {
 	int t;
@@ -27,5 +27,5 @@ NewYearChaos::NewYearChaos()
 		minimumBribes(q);
 	}
 
-	return 0;
 }
+*/
