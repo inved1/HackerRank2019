@@ -29,6 +29,8 @@ class SolutionMaximumToys
         return count;
     }
 
+
+    /*
     static void Main(string[] args)
     {
       
@@ -45,4 +47,6 @@ class SolutionMaximumToys
         Console.WriteLine(result);
 
     }
+
+    */
 }
