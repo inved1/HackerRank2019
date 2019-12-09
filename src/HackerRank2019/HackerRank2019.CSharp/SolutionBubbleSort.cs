@@ -39,6 +39,8 @@ class SolutionBubbleSort
 
     }
 
+
+    /*
     static void Main(string[] args)
     {
         int n = Convert.ToInt32(Console.ReadLine());
@@ -46,4 +48,6 @@ class SolutionBubbleSort
         int[] a = Array.ConvertAll(Console.ReadLine().Split(' '), aTemp => Convert.ToInt32(aTemp));
         countSwaps(a);
     }
+
+    */
 }
