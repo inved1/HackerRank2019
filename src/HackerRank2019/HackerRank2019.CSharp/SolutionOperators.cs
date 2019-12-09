@@ -25,6 +25,7 @@ class SolutionOperators
 
     }
 
+    /*
     static void Main(string[] args)
     {
         double meal_cost = Convert.ToDouble(Console.ReadLine());
@@ -35,4 +36,5 @@ class SolutionOperators
 
         solve(meal_cost, tip_percent, tax_percent);
     }
+    */
 }

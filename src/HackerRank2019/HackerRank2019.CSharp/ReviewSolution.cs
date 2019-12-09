@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 class ReviewSolution
 {
+    /*
     static void Main(String[] args)
     {
         List<String> data = new List<string>();
@@ -26,7 +27,7 @@ class ReviewSolution
         }
     }
 
-    
+    */
 
 
 }
