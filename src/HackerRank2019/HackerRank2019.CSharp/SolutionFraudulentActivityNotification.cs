@@ -52,6 +52,7 @@ class SolutionFraudulentActivityNotification
         }
     }
 
+    /*
     static void Main(string[] args)
     {
         
@@ -70,4 +71,5 @@ class SolutionFraudulentActivityNotification
         Console.ReadKey();
 
     }
+*/
 }
