@@ -4,9 +4,10 @@ using System.IO;
 
 class SolutionDictionary
 {
+
+    /*
     static void Main(String[] args)
     {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
         int n = Convert.ToInt32(Console.ReadLine());
 
         Dictionary<string, int> dict = new Dictionary<string, int>();
@@ -14,8 +15,9 @@ class SolutionDictionary
         for(int i = 0; i < n; i++)
         {
             char[] sep = { ' ' };
-            string name = Console.ReadLine().Split(sep)[0];
-            int number = int.Parse(Console.ReadLine().Split(sep)[1]);
+            string tmp =  Console.ReadLine();
+            string name = tmp.Split(sep)[0];
+            int number = int.Parse(tmp.Split(sep)[1]);
             dict.Add(name, number);
         }
 
@@ -34,5 +36,6 @@ class SolutionDictionary
             }
         }
     }
+    */
 }
 
