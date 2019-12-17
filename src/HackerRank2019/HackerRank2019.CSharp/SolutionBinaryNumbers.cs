@@ -16,7 +16,7 @@ class SolutionBinaryNumbers
 {
 
 
-
+    /*
     static void Main(string[] args)
     {
         int n = Convert.ToInt32(Console.ReadLine());
@@ -25,4 +25,5 @@ class SolutionBinaryNumbers
         int i= binString.Split('0').Max(s => s.Length);
         Console.WriteLine(i);
     }
+    */
 }
